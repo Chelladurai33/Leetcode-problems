@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |

@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0058-length-of-last-word) |
 ## Stack
 |  |
 | ------- |

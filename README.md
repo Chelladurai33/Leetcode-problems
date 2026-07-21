@@ -21,6 +21,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0066-plus-one) |
 ## String
 |  |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

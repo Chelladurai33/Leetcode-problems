@@ -32,6 +32,7 @@
 | [0020-valid-parentheses](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0125-valid-palindrome) |
+| [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Tree
 |  |
 | ------- |

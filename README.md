@@ -12,6 +12,7 @@
 | [0078-subsets](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

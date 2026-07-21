@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0066-plus-one) |
 ## String

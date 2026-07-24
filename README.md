@@ -44,6 +44,7 @@
 | [0125-valid-palindrome](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0520-detect-capital) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack

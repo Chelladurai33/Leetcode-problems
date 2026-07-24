@@ -16,6 +16,7 @@
 | [0414-third-maximum-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@
 | [0020-valid-parentheses](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +132,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

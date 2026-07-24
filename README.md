@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0414-third-maximum-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Tree
 |  |

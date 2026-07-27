@@ -52,6 +52,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0520-detect-capital) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2810-faulty-keyboard) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0135-candy) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Simulation
 |  |
 | ------- |

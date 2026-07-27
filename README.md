@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [3340-check-balanced-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3340-check-balanced-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
 | ------- |

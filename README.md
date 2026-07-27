@@ -19,6 +19,7 @@
 | [0485-max-consecutive-ones](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [3895-count-digit-appearances](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3895-count-digit-appearances) |
 ## Hash Table
@@ -73,6 +74,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Tree
 |  |
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0511-game-play-analysis-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

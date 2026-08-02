@@ -21,6 +21,7 @@
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -47,6 +48,7 @@
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
 | [3895-count-digit-appearances](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
@@ -126,6 +128,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,4 +197,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

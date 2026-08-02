@@ -49,6 +49,7 @@
 | [0507-perfect-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
+| [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
 | [3895-count-digit-appearances](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
@@ -199,4 +200,12 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->

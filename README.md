@@ -44,6 +44,7 @@
 | [0009-palindrome-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Backtracking

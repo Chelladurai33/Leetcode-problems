@@ -27,6 +27,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
+| [3731-find-missing-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3895-count-digit-appearances](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3895-count-digit-appearances) |
 ## Hash Table
@@ -36,6 +37,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
+| [3731-find-missing-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -101,6 +103,7 @@
 | [0414-third-maximum-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
+| [3731-find-missing-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Tree
 |  |

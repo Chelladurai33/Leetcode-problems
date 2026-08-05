@@ -170,6 +170,7 @@
 | [0338-counting-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0476-number-complement) |
 ## Greedy
 |  |

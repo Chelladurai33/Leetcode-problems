@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -54,6 +55,7 @@
 | [0507-perfect-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
@@ -147,6 +149,7 @@
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -223,6 +226,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -236,4 +240,16 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0274-h-index) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

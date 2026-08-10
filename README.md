@@ -74,6 +74,7 @@
 | [0412-fizz-buzz](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0520-detect-capital) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1768-merge-strings-alternately](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -99,6 +100,7 @@
 | [0088-merge-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting

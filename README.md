@@ -28,6 +28,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -39,6 +40,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |

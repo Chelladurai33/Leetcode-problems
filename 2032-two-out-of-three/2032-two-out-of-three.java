@@ -21,7 +21,6 @@ class Solution {
             }
        }
        Set<Integer> set3=new HashSet<>();
-       Set<Integer> set4=new HashSet<>();
        for(int i:nums2)
        {
            set3.add(i);
@@ -30,20 +29,11 @@ class Solution {
        {
             if(set3.contains(i))
             {
-                set4.add(i);
+                set2.add(i);
             }
        }
-       Set<Integer> finset=new HashSet<>();
-       for(int i:set2)
-       {
-        finset.add(i);
-       }
-       for(int i:set4)
-       {
-        finset.add(i);
-       }
        ArrayList<Integer> list=new ArrayList<>();
-       for(int i:finset)
+       for(int i:set2)
        {
             list.add(i);
        }

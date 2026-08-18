@@ -94,6 +94,7 @@
 | [2788-split-strings-by-separator](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
+| [3019-number-of-changing-keys](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3340-check-balanced-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3340-check-balanced-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |

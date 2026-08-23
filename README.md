@@ -72,6 +72,7 @@
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1927-sum-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
@@ -96,6 +97,7 @@
 | [1768-merge-strings-alternately](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1927-sum-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2315-count-asterisks](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2315-count-asterisks) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
@@ -222,6 +224,7 @@
 | [0135-candy](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0135-candy) |
 | [1386-cinema-seat-allocation](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1927-sum-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
@@ -263,6 +266,7 @@
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |

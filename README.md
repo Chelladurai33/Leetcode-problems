@@ -30,6 +30,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2032-two-out-of-three) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
@@ -248,6 +249,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
 |  |

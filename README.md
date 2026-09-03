@@ -30,6 +30,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2032-two-out-of-three) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -91,6 +92,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1927-sum-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
@@ -314,6 +316,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -352,4 +355,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

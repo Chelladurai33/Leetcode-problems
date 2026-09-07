@@ -100,6 +100,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3895-count-digit-appearances](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3895-count-digit-appearances) |
@@ -135,6 +136,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3340-check-balanced-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3340-check-balanced-string) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
@@ -281,6 +283,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2810-faulty-keyboard](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3959-check-good-integer](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3959-check-good-integer) |
@@ -326,6 +329,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -373,4 +377,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->

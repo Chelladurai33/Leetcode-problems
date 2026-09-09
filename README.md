@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -164,6 +166,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0027-remove-element) |
@@ -226,6 +227,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -385,4 +387,8 @@
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

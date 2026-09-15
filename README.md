@@ -89,6 +89,7 @@
 | [0319-bulb-switcher](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -222,6 +223,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
@@ -256,6 +258,7 @@
 | [0051-n-queens](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0090-subsets-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bit Manipulation
 |  |
 | ------- |

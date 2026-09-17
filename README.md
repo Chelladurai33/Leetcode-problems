@@ -69,6 +69,7 @@
 | [2032-two-out-of-three](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2032-two-out-of-three) |
 | [2103-rings-and-rods](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -139,6 +140,7 @@
 | [2103-rings-and-rods](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2103-rings-and-rods) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2315-count-asterisks](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2315-count-asterisks) |
+| [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2810-faulty-keyboard) |
@@ -276,6 +278,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -359,6 +362,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Minimax
 |  |

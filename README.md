@@ -161,6 +161,7 @@
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3340-check-balanced-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
@@ -322,6 +323,7 @@
 | [2810-faulty-keyboard](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3959-check-good-integer](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3959-check-good-integer) |

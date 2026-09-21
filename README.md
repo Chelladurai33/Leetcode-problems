@@ -46,6 +46,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2788-split-strings-by-separator) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -364,6 +365,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory

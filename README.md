@@ -167,6 +167,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |

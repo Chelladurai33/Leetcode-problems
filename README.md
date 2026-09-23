@@ -145,6 +145,7 @@
 | [0520-detect-capital](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0984-string-without-aaa-or-bbb) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -387,6 +388,7 @@
 | ------- |
 | [0274-h-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |

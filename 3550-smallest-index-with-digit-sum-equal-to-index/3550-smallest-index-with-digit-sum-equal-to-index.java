@@ -2,33 +2,23 @@ class Solution {
     public int smallestIndex(int[] nums) {
         for(int i=0;i<nums.length;i++)
         {
-            if(nums[i]<10)
-            {
-                if(i==nums[i])
-                {
-                    return i;
-                }
-            }
-            int ans=check(nums[i]);
-            if(ans==i)
+            int a=digit(nums[i]);
+            if(a==i)
             {
                 return i;
             }
         }
         return -1;
     }
-    public static int check(int num)
+    public static int digit(int n)
     {
         int sum=0;
-        
-            while(num!=0)
-            {
-                int rem = num%10;
-                sum+=rem;
-                num/=10;
-            }
-
-        
+        while(n!=0)
+        {
+            int rem=n%10;
+            sum+=rem;
+            n/=10;
+        }
         return sum;
     }
 }

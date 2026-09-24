@@ -296,6 +296,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |

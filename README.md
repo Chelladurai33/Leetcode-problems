@@ -99,6 +99,7 @@
 | [0342-power-of-four](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0372-super-pow) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
@@ -445,6 +446,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0372-super-pow) |
 ## Quickselect
 |  |
 | ------- |
@@ -461,4 +463,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0836-rectangle-overlap) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->

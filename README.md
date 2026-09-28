@@ -100,6 +100,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0372-super-pow) |
+| [0400-nth-digit](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
@@ -268,6 +269,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0400-nth-digit) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |

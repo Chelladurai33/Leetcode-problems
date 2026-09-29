@@ -120,6 +120,7 @@
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -338,6 +339,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2810-faulty-keyboard](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |

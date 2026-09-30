@@ -157,6 +157,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1927-sum-game) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2103-rings-and-rods](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2103-rings-and-rods) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2315-count-asterisks](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2315-count-asterisks) |
@@ -337,6 +338,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |

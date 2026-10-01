@@ -5,6 +5,7 @@ class Solution {
             if (ch == '(' || ch == '[' || ch == '{') {
                 stack.push(ch);
             } else {
+                
                 if (stack.isEmpty()) {
                     return false;
                 }

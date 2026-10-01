@@ -485,4 +485,8 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0372-super-pow) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -64,6 +64,7 @@
 | [3895-count-digit-appearances](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3917-count-indices-with-opposite-parity) |
+| [3978-unique-middle-element](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -419,6 +420,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3978-unique-middle-element](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3978-unique-middle-element) |
 ## Minimax
 |  |
 | ------- |

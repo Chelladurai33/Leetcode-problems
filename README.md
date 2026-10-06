@@ -57,6 +57,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -89,6 +90,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -227,6 +229,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Tree
@@ -345,6 +348,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Simulation
 |  |
 | ------- |

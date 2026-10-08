@@ -122,6 +122,7 @@
 | [1323-maximum-69-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1837-sum-of-digits-in-base-k) |
+| [1925-count-square-sum-triples](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -408,6 +409,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2843-count-symmetric-integers) |

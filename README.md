@@ -79,6 +79,7 @@
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2032-two-out-of-three) |
 | [2103-rings-and-rods](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
@@ -164,6 +165,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -427,6 +430,7 @@
 | [0274-h-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |

@@ -173,6 +173,7 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2103-rings-and-rods](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2103-rings-and-rods) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |

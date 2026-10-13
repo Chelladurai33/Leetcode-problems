@@ -50,6 +50,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
@@ -176,6 +177,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
@@ -445,6 +447,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3978-unique-middle-element](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3978-unique-middle-element) |
 ## Minimax
 |  |

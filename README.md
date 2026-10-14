@@ -142,6 +142,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3895-count-digit-appearances) |
 | [3959-check-good-integer](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3959-check-good-integer) |
@@ -367,6 +368,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Simulation
 |  |
 | ------- |

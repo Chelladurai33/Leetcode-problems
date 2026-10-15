@@ -136,6 +136,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2544-alternating-digit-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
 | [2843-count-symmetric-integers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |

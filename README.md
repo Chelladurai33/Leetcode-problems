@@ -349,6 +349,7 @@
 | [2032-two-out-of-three](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3370-smallest-number-with-all-set-bits) |

@@ -405,6 +405,7 @@
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0511-game-play-analysis-i) |
+| [1075-project-employees-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1075-project-employees-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1484-group-sold-products-by-the-date) |
 ## Heap (Priority Queue)
 |  |

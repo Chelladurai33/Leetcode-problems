@@ -165,6 +165,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0696-count-binary-substrings) |

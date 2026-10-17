@@ -333,6 +333,7 @@
 | [0078-subsets](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [0338-counting-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0476-number-complement) |

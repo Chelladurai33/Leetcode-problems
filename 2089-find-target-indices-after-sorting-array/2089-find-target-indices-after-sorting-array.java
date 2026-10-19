@@ -1,14 +1,23 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
-        Arrays.sort(nums);
-        List<Integer> list=new ArrayList<>();
-        for(int i=0;i<nums.length;i++)
+        List<Integer> res = new ArrayList<>();
+        int count = 0;
+        int start = 0;
+        for(int num : nums) 
         {
-            if(nums[i]==target)
+            if(num == target) 
             {
-                list.add(i);
+                count++;
+            }
+            if(num < target) 
+            {
+                start++;
             }
         }
-        return list;
+        while(count-- != 0) 
+        {
+            res.add(start++);
+        }
+        return res;
     }
 }

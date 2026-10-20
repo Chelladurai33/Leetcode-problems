@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -385,6 +386,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0495-teemo-attacking) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -428,6 +430,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Game Theory

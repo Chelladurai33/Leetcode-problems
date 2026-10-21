@@ -342,6 +342,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0342-power-of-four) |
@@ -517,6 +518,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0372-super-pow](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0372-super-pow) |
 ## Quickselect

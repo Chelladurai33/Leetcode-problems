@@ -27,6 +27,7 @@
 | [0275-h-index-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0413-arithmetic-slices](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
@@ -297,6 +298,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0413-arithmetic-slices](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0413-arithmetic-slices) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |

@@ -66,6 +66,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -365,6 +366,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4030-check-ascii-palindromic](https://github.com/Chelladurai33/Leetcode-problems/tree/master/4030-check-ascii-palindromic) |

@@ -141,6 +141,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
+| [2409-count-days-spent-together](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
 | [2843-count-symmetric-integers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2843-count-symmetric-integers) |
@@ -189,6 +190,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2716-minimize-string-length) |

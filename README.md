@@ -34,6 +34,7 @@
 | [0495-teemo-attacking](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
@@ -86,6 +87,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1386-cinema-seat-allocation](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -246,6 +248,7 @@
 | [0274-h-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -311,6 +314,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0413-arithmetic-slices) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -472,6 +476,7 @@
 | ------- |
 | [0274-h-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |

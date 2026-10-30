@@ -31,6 +31,7 @@
 | [0414-third-maximum-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
@@ -306,6 +307,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0413-arithmetic-slices](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
@@ -347,6 +349,7 @@
 | [0090-subsets-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -577,4 +580,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

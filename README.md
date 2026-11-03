@@ -58,6 +58,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2562-find-the-array-concatenation-value](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -418,6 +419,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2562-find-the-array-concatenation-value](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2810-faulty-keyboard](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -458,6 +460,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Game Theory
 |  |
 | ------- |

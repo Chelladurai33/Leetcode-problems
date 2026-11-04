@@ -141,6 +141,7 @@
 | [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1927-sum-game) |

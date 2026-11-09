@@ -224,6 +224,7 @@
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3884-first-matching-character-from-both-ends) |
+| [4006-count-valid-prefixes](https://github.com/Chelladurai33/Leetcode-problems/tree/master/4006-count-valid-prefixes) |
 | [4030-check-ascii-palindromic](https://github.com/Chelladurai33/Leetcode-problems/tree/master/4030-check-ascii-palindromic) |
 ## Stack
 |  |
@@ -512,6 +513,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3978-unique-middle-element](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3978-unique-middle-element) |
+| [4006-count-valid-prefixes](https://github.com/Chelladurai33/Leetcode-problems/tree/master/4006-count-valid-prefixes) |
 ## Minimax
 |  |
 | ------- |

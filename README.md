@@ -57,6 +57,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -154,6 +155,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
@@ -432,6 +434,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2562-find-the-array-concatenation-value](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
@@ -497,6 +500,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting Sort
 |  |
@@ -557,6 +561,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |

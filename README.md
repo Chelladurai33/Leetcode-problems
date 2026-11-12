@@ -145,6 +145,7 @@
 | [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1925-count-square-sum-triples) |
@@ -392,6 +393,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
+| [1486-xor-operation-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |

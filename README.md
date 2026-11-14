@@ -158,6 +158,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
@@ -258,6 +259,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 | [2562-find-the-array-concatenation-value](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3884-first-matching-character-from-both-ends) |
@@ -590,6 +592,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 ## Geometry
 |  |
 | ------- |

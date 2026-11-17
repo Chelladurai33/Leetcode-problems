@@ -41,6 +41,7 @@
 | [0877-stone-game](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0877-stone-game) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |

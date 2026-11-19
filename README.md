@@ -26,6 +26,7 @@
 | [0274-h-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -276,6 +278,7 @@
 | [0088-merge-sorted-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -483,6 +486,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
@@ -520,6 +524,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1079-letter-tile-possibilities](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1079-letter-tile-possibilities) |
@@ -584,11 +589,13 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0372-super-pow) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -640,4 +647,8 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0841-keys-and-rooms) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

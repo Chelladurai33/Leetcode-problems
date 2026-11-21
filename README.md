@@ -73,6 +73,7 @@
 | [2788-split-strings-by-separator](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2788-split-strings-by-separator) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -115,6 +116,7 @@
 | [2729-check-if-the-number-is-fascinating](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -537,6 +539,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3978-unique-middle-element](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3978-unique-middle-element) |
 | [4006-count-valid-prefixes](https://github.com/Chelladurai33/Leetcode-problems/tree/master/4006-count-valid-prefixes) |
 ## Minimax

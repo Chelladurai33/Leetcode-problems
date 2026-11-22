@@ -220,6 +220,7 @@
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2103-rings-and-rods](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2103-rings-and-rods) |
 | [2109-adding-spaces-to-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2278-percentage-of-letter-in-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |

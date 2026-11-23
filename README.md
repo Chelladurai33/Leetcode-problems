@@ -26,6 +26,7 @@
 | [0274-h-index](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0413-arithmetic-slices) |
@@ -552,6 +553,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1140-stone-game-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
@@ -656,4 +658,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

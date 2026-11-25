@@ -225,6 +225,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2409-count-days-spent-together](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -255,6 +256,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -393,6 +395,7 @@
 | [0401-binary-watch](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/0494-target-sum) |
 | [1079-letter-tile-possibilities](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1079-letter-tile-possibilities) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -439,6 +442,7 @@
 | [2029-stone-game-ix](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |

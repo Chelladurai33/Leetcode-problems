@@ -187,6 +187,7 @@
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3895-count-digit-appearances) |
+| [3908-valid-digit-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3908-valid-digit-number) |
 | [3959-check-good-integer](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3959-check-good-integer) |
 ## String
 |  |

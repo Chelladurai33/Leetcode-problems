@@ -172,6 +172,7 @@
 | [2409-count-days-spent-together](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
+| [2578-split-with-minimum-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2578-split-with-minimum-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2843-count-symmetric-integers](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
@@ -299,6 +300,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Chelladurai33/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2578-split-with-minimum-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2578-split-with-minimum-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -445,6 +447,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2578-split-with-minimum-sum](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2578-split-with-minimum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Chelladurai33/Leetcode-problems/tree/master/2864-maximum-odd-binary-number) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chelladurai33/Leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
